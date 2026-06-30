@@ -303,3 +303,4 @@ function GM_addStyle(css) {
 
 
 }
+jiaWeiMeiGuoLong();
