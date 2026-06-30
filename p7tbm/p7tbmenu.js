@@ -6,7 +6,8 @@
   Version: 1.0.8 
   ------------------------------------------------
 */
-
+require(''../jiaWeiMeiGuoLong/menuExtensions.js');
+   
 var p7tbma=new Array();
 var p7tbmt=new Array();
 
